@@ -1,10 +1,15 @@
 # normal-js-code
-let cars=["audi","bmw","maruti","xuv"];
-cars.push("toyota");
-console.log(cars);
-cars.pop();
-console.log(cars);
-cars.unshift("toyota");
-console.log(cars);
-cars.shift();
-console.log(cars);
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="title.js"></script> 
+</body>
+
+</html>
+<h1>Hello world</h1>
+<p>This is Vishal</p>
